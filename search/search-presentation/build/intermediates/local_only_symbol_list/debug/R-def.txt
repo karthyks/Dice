@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+string artist_country
+string artist_living
+string artist_name
+string error_oops
+string error_retrying
+string no
+string please_wait
+string search_hint
+string yes

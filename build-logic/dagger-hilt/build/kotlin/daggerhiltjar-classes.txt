@@ -1,0 +1,1 @@
+/Users/karthyks/src/personal/local/Dice/build-logic/dagger-hilt/build/classes/kotlin/main/com/karthyks/plugin/DaggerHiltCorePlugin.class:/Users/karthyks/src/personal/local/Dice/build-logic/dagger-hilt/build/classes/kotlin/main/com/karthyks/plugin/DaggerHiltPlugin.class

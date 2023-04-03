@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_close
+string artist_name
+string oops_message

@@ -1,0 +1,243 @@
+{
+  "begin-area": {
+    "sort-name": "Omaha",
+    "type-id": null,
+    "name": "Omaha",
+    "id": "7968b302-75a6-4456-a09e-7bf7ac13293a",
+    "disambiguation": "",
+    "type": null
+  },
+  "begin_area": {
+    "sort-name": "Omaha",
+    "type-id": null,
+    "name": "Omaha",
+    "id": "7968b302-75a6-4456-a09e-7bf7ac13293a",
+    "disambiguation": "",
+    "type": null
+  },
+  "disambiguation": "",
+  "type": "Person",
+  "id": "3ae3fa20-d295-467c-b59f-969376a28470",
+  "name": "Fred Astaire",
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "area": {
+    "name": "United States",
+    "type-id": null,
+    "sort-name": "United States",
+    "type": null,
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "id": "489ce91b-6658-3307-9877-795b68554c98"
+  },
+  "recordings": [
+    {
+      "video": false,
+      "length": null,
+      "title": "'s Wonderful",
+      "id": "c557af39-885a-48ad-aea1-ac0c152b4267",
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "title": "'S Wonderful",
+      "length": 179000,
+      "id": "d077e148-dd5a-4777-9426-22add56d8a78"
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "length": 126000,
+      "title": "'S Wonderful",
+      "id": "e989cabe-141d-4e42-9f54-c745ccf21733"
+    },
+    {
+      "disambiguation": "",
+      "id": "f4fe58cd-f880-442f-a668-5b6658d40a1e",
+      "length": null,
+      "title": "'S Wonderful",
+      "video": false
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "length": 141000,
+      "title": "'S Wonderful (Alternative)",
+      "id": "ae7a038a-08b6-4375-a97b-23ec29e2c850"
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "title": "’s Wonderful",
+      "length": 179360,
+      "id": "44cba170-230b-4089-a147-937004e109c7"
+    },
+    {
+      "disambiguation": "",
+      "id": "35421312-06e7-47e8-93b8-6368e10f32b1",
+      "length": 126000,
+      "title": "’s Wonderful",
+      "video": false
+    },
+    {
+      "video": false,
+      "id": "bc192638-730f-411a-987a-c913d2aea435",
+      "title": "’s Wonderful",
+      "length": 180560,
+      "disambiguation": ""
+    },
+    {
+      "id": "810d65b7-5f15-40c6-8ee5-923c00805ea9",
+      "title": "(Ad Lib) Fast Dances",
+      "length": 168000,
+      "video": false,
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "title": "(Ad Lib) Medium Dance",
+      "length": 122000,
+      "id": "0bf49c64-7dde-49d2-afb0-55acb6d20614",
+      "video": false
+    },
+    {
+      "video": false,
+      "id": "418d8d00-0939-47e4-a61a-e8ef9427e41e",
+      "length": null,
+      "title": "(I Ain't Hep To That Step But I'll) Dig It",
+      "disambiguation": ""
+    },
+    {
+      "title": "(I Ain’t Hep To That Step But I’ll) Dig It",
+      "length": 142120,
+      "id": "8f7ff906-6ded-480c-b5e4-58fb6585d9e9",
+      "video": false,
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "id": "e33d1f63-8e04-4ab5-9046-ed82e79bb352",
+      "length": null,
+      "title": "(I've Got) Beginner's Luck",
+      "video": false
+    },
+    {
+      "length": 131840,
+      "title": "(I've got) Beginners luck",
+      "id": "3f1ecc5f-02d5-45a2-8649-9177c6aafa85",
+      "video": false,
+      "disambiguation": ""
+    },
+    {
+      "video": false,
+      "title": "(I’ve Got) Beginner’s Luck",
+      "length": 171040,
+      "id": "b24423ec-9331-4ff3-bd20-e703471cfd8d",
+      "disambiguation": ""
+    },
+    {
+      "video": false,
+      "length": 118826,
+      "title": "(I’ve Got) Beginner’s Luck",
+      "id": "f881d561-33e9-4615-a4f4-7631cebecb64",
+      "disambiguation": ""
+    },
+    {
+      "video": false,
+      "length": 130013,
+      "title": "(I’ve Got) Beginner’s Luck",
+      "id": "5babf26e-81ed-4363-b4f2-6edfc2dbdae1",
+      "disambiguation": ""
+    },
+    {
+      "video": false,
+      "id": "de75c835-4521-4220-ad73-125b2904858d",
+      "length": 177786,
+      "title": "A Couple of Song and Dance Men",
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "id": "972d0b3f-f6b9-47a1-b4b7-b894a3c0b91b",
+      "length": 139613,
+      "title": "A Couple of Song and Dance Men",
+      "video": false
+    },
+    {
+      "video": false,
+      "id": "2d91d8bb-5dba-45e6-83f8-b3a3f85ab7af",
+      "title": "A Couple of Song and Dance Men",
+      "length": 142000,
+      "disambiguation": ""
+    },
+    {
+      "id": "f30ffe21-6529-4ced-9ee9-2ac557303c00",
+      "length": null,
+      "title": "A Couple of Song and Dance Men",
+      "video": false,
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "title": "A Couple of Song and Dance Men",
+      "length": null,
+      "id": "676dfd67-bac3-4a47-a977-e764e6cab25d",
+      "video": false
+    },
+    {
+      "disambiguation": "",
+      "video": false,
+      "length": 140000,
+      "title": "A Couple of Song and Dance Men",
+      "id": "5fcafa0f-a5f7-45e2-a42b-90f36fe8254b"
+    },
+    {
+      "video": false,
+      "title": "A Couple Of Song And Dance Men",
+      "length": null,
+      "id": "97f6d3f6-23c1-4f5b-a037-417da8c0840c",
+      "disambiguation": ""
+    },
+    {
+      "length": 159106,
+      "title": "A Couple of Swells",
+      "id": "4ef396c5-b956-4ec6-9d9d-49331176ac75",
+      "video": false,
+      "disambiguation": ""
+    }
+  ],
+  "gender": "Male",
+  "end_area": {
+    "disambiguation": "",
+    "type": null,
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "sort-name": "Los Angeles",
+    "name": "Los Angeles",
+    "type-id": null
+  },
+  "ipis": [
+    "00001506052"
+  ],
+  "sort-name": "Astaire, Fred",
+  "country": "US",
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "isnis": [
+    "0000000080886884",
+    "0000000368491443"
+  ],
+  "end-area": {
+    "disambiguation": "",
+    "type": null,
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "sort-name": "Los Angeles",
+    "name": "Los Angeles",
+    "type-id": null
+  },
+  "life-span": {
+    "ended": true,
+    "begin": "1899-05-10",
+    "end": "1987-06-22"
+  }
+}

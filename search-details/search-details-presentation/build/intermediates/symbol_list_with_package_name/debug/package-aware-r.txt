@@ -1,0 +1,4 @@
+com.karthyks.dice.searchdetails
+drawable ic_close
+string artist_name
+string oops_message

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../build-logic" name="build-logic">
+                <projects>
+                  <project path="$PROJECT_DIR$/../build-logic" />
+                  <project path="$PROJECT_DIR$/../build-logic/android" />
+                  <project path="$PROJECT_DIR$/../build-logic/android-application" />
+                  <project path="$PROJECT_DIR$/../build-logic/dagger-hilt" />
+                  <project path="$PROJECT_DIR$/../build-logic/kotlin-library" />
+                  <project path="$PROJECT_DIR$/../build-logic/version-system" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../network" name="network">
+                <projects>
+                  <project path="$PROJECT_DIR$/../network" />
+                  <project path="$PROJECT_DIR$/../network/http-client" />
+                  <project path="$PROJECT_DIR$/../network/music-brainz-service" />
+                  <project path="$PROJECT_DIR$/../network/music-entities" />
+                  <project path="$PROJECT_DIR$/../network/network-config-provider" />
+                  <project path="$PROJECT_DIR$/../network/network-di" />
+                  <project path="$PROJECT_DIR$/../network/test-http-client" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../common" name="common">
+                <projects>
+                  <project path="$PROJECT_DIR$/../common" />
+                  <project path="$PROJECT_DIR$/../common/compose-test-contract" />
+                  <project path="$PROJECT_DIR$/../common/coroutines-annotation" />
+                  <project path="$PROJECT_DIR$/../common/coroutines-provider" />
+                  <project path="$PROJECT_DIR$/../common/test-framework" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../navigation" name="navigation">
+                <projects>
+                  <project path="$PROJECT_DIR$/../navigation" />
+                  <project path="$PROJECT_DIR$/../navigation/home-navigation" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../search" name="search">
+                <projects>
+                  <project path="$PROJECT_DIR$/../search" />
+                  <project path="$PROJECT_DIR$/../search/repository" />
+                  <project path="$PROJECT_DIR$/../search/repository/search-repository-contract" />
+                  <project path="$PROJECT_DIR$/../search/repository/search-repository-provider" />
+                  <project path="$PROJECT_DIR$/../search/search-integration-test" />
+                  <project path="$PROJECT_DIR$/../search/search-mapper" />
+                  <project path="$PROJECT_DIR$/../search/search-models" />
+                  <project path="$PROJECT_DIR$/../search/search-pager" />
+                  <project path="$PROJECT_DIR$/../search/search-presentation" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../search-details" name="search-details">
+                <projects>
+                  <project path="$PROJECT_DIR$/../search-details" />
+                  <project path="$PROJECT_DIR$/../search-details/repository" />
+                  <project path="$PROJECT_DIR$/../search-details/repository/search-details-repository-contract" />
+                  <project path="$PROJECT_DIR$/../search-details/repository/search-details-repository-provider" />
+                  <project path="$PROJECT_DIR$/../search-details/search-details-integration-test" />
+                  <project path="$PROJECT_DIR$/../search-details/search-details-mapper" />
+                  <project path="$PROJECT_DIR$/../search-details/search-details-models" />
+                  <project path="$PROJECT_DIR$/../search-details/search-details-presentation" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../platforms" name="platforms">
+                <projects>
+                  <project path="$PROJECT_DIR$/../platforms" />
+                  <project path="$PROJECT_DIR$/../platforms/plugins-platform" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../build-logic" />
+            <option value="$PROJECT_DIR$/../build-logic/android" />
+            <option value="$PROJECT_DIR$/../build-logic/android-application" />
+            <option value="$PROJECT_DIR$/../build-logic/dagger-hilt" />
+            <option value="$PROJECT_DIR$/../build-logic/kotlin-library" />
+            <option value="$PROJECT_DIR$/../build-logic/version-system" />
+            <option value="$PROJECT_DIR$/../common" />
+            <option value="$PROJECT_DIR$/../common/compose-test-contract" />
+            <option value="$PROJECT_DIR$/../common/coroutines-annotation" />
+            <option value="$PROJECT_DIR$/../common/coroutines-provider" />
+            <option value="$PROJECT_DIR$/../common/test-framework" />
+            <option value="$PROJECT_DIR$/../navigation" />
+            <option value="$PROJECT_DIR$/../navigation/home-navigation" />
+            <option value="$PROJECT_DIR$/../network" />
+            <option value="$PROJECT_DIR$/../network/http-client" />
+            <option value="$PROJECT_DIR$/../network/music-brainz-service" />
+            <option value="$PROJECT_DIR$/../network/music-entities" />
+            <option value="$PROJECT_DIR$/../network/network-config-provider" />
+            <option value="$PROJECT_DIR$/../network/network-di" />
+            <option value="$PROJECT_DIR$/../network/test-http-client" />
+            <option value="$PROJECT_DIR$/../platforms" />
+            <option value="$PROJECT_DIR$/../platforms/plugins-platform" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/dice-app" />
+            <option value="$PROJECT_DIR$/test-app" />
+            <option value="$PROJECT_DIR$/../search" />
+            <option value="$PROJECT_DIR$/../search-details" />
+            <option value="$PROJECT_DIR$/../search-details/repository" />
+            <option value="$PROJECT_DIR$/../search-details/repository/search-details-repository-contract" />
+            <option value="$PROJECT_DIR$/../search-details/repository/search-details-repository-provider" />
+            <option value="$PROJECT_DIR$/../search-details/search-details-integration-test" />
+            <option value="$PROJECT_DIR$/../search-details/search-details-mapper" />
+            <option value="$PROJECT_DIR$/../search-details/search-details-models" />
+            <option value="$PROJECT_DIR$/../search-details/search-details-presentation" />
+            <option value="$PROJECT_DIR$/../search/repository" />
+            <option value="$PROJECT_DIR$/../search/repository/search-repository-contract" />
+            <option value="$PROJECT_DIR$/../search/repository/search-repository-provider" />
+            <option value="$PROJECT_DIR$/../search/search-integration-test" />
+            <option value="$PROJECT_DIR$/../search/search-mapper" />
+            <option value="$PROJECT_DIR$/../search/search-models" />
+            <option value="$PROJECT_DIR$/../search/search-pager" />
+            <option value="$PROJECT_DIR$/../search/search-presentation" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/Users/karthyks/src/personal/local/Dice/search-details/search-details-models/build/classes/kotlin/main/com/karthyks/dice/searchdetails/models/ArtistDetail.class:/Users/karthyks/src/personal/local/Dice/search-details/search-details-models/build/classes/kotlin/main/com/karthyks/dice/searchdetails/models/Recording.class

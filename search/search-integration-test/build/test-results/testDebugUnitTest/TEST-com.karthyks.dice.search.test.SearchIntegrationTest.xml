@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.karthyks.dice.search.test.SearchIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-03T15:28:43" hostname="Karthiks-MacBook-Pro-2.local" time="1.902">
+  <properties/>
+  <testcase name="shouldRenderSearchScreen" classname="com.karthyks.dice.search.test.SearchIntegrationTest" time="1.902"/>
+  <system-out><![CDATA[Server port is 2222
+com.karthyks.dice.test.httpclient.MockServer@7010708c started mock webserver http://localhost:2222/
+com.karthyks.dice.test.httpclient.MockServer@7010708c mock web server shutdown
+]]></system-out>
+  <system-err><![CDATA[[WARN] Unknown chunk type '200'.
+]]></system-err>
+</testsuite>

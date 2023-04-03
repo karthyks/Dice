@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.karthyks.dice.searchdetails.SearchDetailsIntegrationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-02-03T15:28:15" hostname="Karthiks-MacBook-Pro-2.local" time="2.135">
+  <properties/>
+  <testcase name="shouldRenderError" classname="com.karthyks.dice.searchdetails.SearchDetailsIntegrationTest" time="2.095"/>
+  <testcase name="shouldRenderSearchDetails" classname="com.karthyks.dice.searchdetails.SearchDetailsIntegrationTest" time="0.039"/>
+  <system-out><![CDATA[Server port is 2222
+com.karthyks.dice.test.httpclient.MockServer@660e635d started mock webserver http://localhost:2222/
+com.karthyks.dice.test.httpclient.MockServer@660e635d mock web server shutdown
+Server port is 2223
+com.karthyks.dice.test.httpclient.MockServer@6a0075c7 started mock webserver http://localhost:2223/
+com.karthyks.dice.test.httpclient.MockServer@6a0075c7 mock web server shutdown
+]]></system-out>
+  <system-err><![CDATA[[WARN] Unknown chunk type '200'.
+]]></system-err>
+</testsuite>

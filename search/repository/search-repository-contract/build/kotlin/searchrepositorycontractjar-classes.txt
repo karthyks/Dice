@@ -1,0 +1,1 @@
+/Users/karthyks/src/personal/local/Dice/search/repository/search-repository-contract/build/classes/kotlin/main/com/karthyks/dice/search/repository/SearchRepository$Companion.class:/Users/karthyks/src/personal/local/Dice/search/repository/search-repository-contract/build/classes/kotlin/main/com/karthyks/dice/search/repository/SearchRepository.class

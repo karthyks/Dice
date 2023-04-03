@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.karthyks.dice.search.pager" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->/Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+6
+7</manifest>

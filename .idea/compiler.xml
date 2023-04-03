@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.6">
+      <module name="network.music-brainz" target="11" />
+      <module name="network.music-brainz.main" target="11" />
+      <module name="network.music-brainz.test" target="11" />
+      <module name="search-details.search-details-repository" target="11" />
+      <module name="search-details.search-details-repository.main" target="11" />
+      <module name="search-details.search-details-repository.test" target="11" />
+      <module name="search-details.search-details-route" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

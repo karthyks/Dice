@@ -1,0 +1,1 @@
+/Users/karthyks/src/personal/local/Dice/search/search-models/build/classes/kotlin/main/com/karthyks/dice/search/models/ArtistCollection.class:/Users/karthyks/src/personal/local/Dice/search/search-models/build/classes/kotlin/main/com/karthyks/dice/search/models/ArtistItem.class

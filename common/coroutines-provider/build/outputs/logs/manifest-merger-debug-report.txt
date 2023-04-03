@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml:2:13-83
+INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml:2:13-83
+INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml:2:13-83
+	package
+		INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+		ADDED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml:2:13-83
+		INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+	xmlns:android
+		ADDED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml:2:23-81
+uses-sdk
+INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml reason: use-sdk injection requested
+INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+	android:targetSdkVersion
+		INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+		ADDED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+		INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+	android:minSdkVersion
+		INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+		ADDED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml
+		INJECTED from /Users/karthyks/src/personal/local/Dice/common/coroutines-provider/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2944293109925711151.xml

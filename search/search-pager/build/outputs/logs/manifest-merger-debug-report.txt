@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml:2:13-83
+INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml:2:13-83
+INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml:2:13-83
+	package
+		INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+		ADDED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml:2:13-83
+		INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+	xmlns:android
+		ADDED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml:2:23-81
+uses-sdk
+INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml reason: use-sdk injection requested
+INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+	android:targetSdkVersion
+		INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+		ADDED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+		INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+	android:minSdkVersion
+		INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+		ADDED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml
+		INJECTED from /Users/karthyks/src/personal/local/Dice/search/search-pager/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4809281819300164095.xml

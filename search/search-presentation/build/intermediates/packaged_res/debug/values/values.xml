@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="artist_country">Country: %1$s</string>
+    <string name="artist_living">Is Alive: %1$s</string>
+    <string name="artist_name">Name: %1$s</string>
+    <string name="error_oops">Oops something went wrong, retry</string>
+    <string name="error_retrying">Retrying in a while …</string>
+    <string name="no">No</string>
+    <string name="please_wait">Please wait …</string>
+    <string name="search_hint">Enter artist name</string>
+    <string name="yes">Yes</string>
+</resources>

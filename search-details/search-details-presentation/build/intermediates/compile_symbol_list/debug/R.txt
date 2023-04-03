@@ -1,0 +1,3 @@
+int drawable ic_close 0x0
+int string artist_name 0x0
+int string oops_message 0x0

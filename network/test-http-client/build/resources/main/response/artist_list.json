@@ -1,0 +1,1514 @@
+{
+  "created": "2023-01-28T15:09:45.340Z",
+  "count": 1715,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3ae3fa20-d295-467c-b59f-969376a28470",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Astaire",
+      "sort-name": "Astaire, Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7968b302-75a6-4456-a09e-7bf7ac13293a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Omaha",
+        "sort-name": "Omaha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00001506052"
+      ],
+      "isnis": [
+        "0000000368491443",
+        "0000000080886884"
+      ],
+      "life-span": {
+        "begin": "1899-05-10",
+        "end": "1987-06-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Fred Astaire & Chorus",
+          "name": "Fred Astaire & Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fred Astair",
+          "name": "Fred Astair",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "night and day"
+        }
+      ]
+    },
+    {
+      "id": "4801bad4-1b42-4c9e-84b1-bf61067ab67c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Frith",
+      "sort-name": "Frith, Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "292a6892-ad77-44e5-a860-793a641c0438",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Heathfield",
+        "sort-name": "Heathfield",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00077477140",
+        "00077477238"
+      ],
+      "isnis": [
+        "000000011443262X"
+      ],
+      "life-span": {
+        "begin": "1949-02-17",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        }
+      ]
+    },
+    {
+      "id": "3eaf26fa-7503-46e9-aeb0-63385598e1aa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Steiner",
+      "sort-name": "Steiner, Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e29e9c8c-1720-4f66-967f-af63dc383c61",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ajijic",
+        "sort-name": "Ajijic",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00029543672",
+        "00581449233"
+      ],
+      "isnis": [
+        "0000000114622810",
+        "0000000406550177"
+      ],
+      "life-span": {
+        "begin": "1923-02-24",
+        "end": "2011-06-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Steiner, Frederick",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Frederick Steiner",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 0,
+          "name": "death by stroke"
+        },
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "orchestrator"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        }
+      ]
+    },
+    {
+      "id": "f2154126-dd68-4f02-8821-0d4508d87a57",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Sanders",
+      "sort-name": "Sanders, Fred",
+      "gender": "male",
+      "area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "actor & audiobook narrator",
+      "life-span": {
+        "begin": "1955-02-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "618681a7-3fce-4174-9c15-7ac28012bc2b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Fred Vargas",
+      "sort-name": "Vargas, Fred",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000120300340",
+        "0000000117944807"
+      ],
+      "life-span": {
+        "begin": "1957-06-07",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "05baf3eb-81ca-4e23-9f0c-955a8cbddaec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Ã…kerstrÃ¶m",
+      "sort-name": "Ã…kerstrÃ¶m, Fred",
+      "gender": "male",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "80e5d577-bd4e-435c-86de-909c76a74a58",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Stockholm municipality",
+        "sort-name": "Stockholm municipality",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f100856d-cdaf-41aa-ac46-7bc9b8d647ea",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Karlskrona Municipality",
+        "sort-name": "Karlskrona Municipality",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000053040859"
+      ],
+      "life-span": {
+        "begin": "1937-01-27",
+        "end": "1985-08-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Fred Ã…kertstrÃ¶m",
+          "name": "Fred Ã…kertstrÃ¶m",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f573100a-b05b-4286-83f0-5620adf73695",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Hersch",
+      "sort-name": "Hersch, Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b2cf490f-a8a7-4875-a1b7-addede3b327f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cincinnati",
+        "sort-name": "Cincinnati",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114892554"
+      ],
+      "life-span": {
+        "begin": "1955-10-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hersch, Fred",
+          "name": "Hersch, Fred",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "dd0f6c5e-c860-46be-a205-2d2ca97c5506",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Leonard",
+      "sort-name": "Leonard, Fred",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "027f5b4c-3a87-4480-96c5-38e4a4b56d9c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Bongusto",
+      "sort-name": "Bongusto, Fred",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4b20115c-9925-4e7b-b24e-ab8c66c9930a",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Campobasso",
+        "sort-name": "Campobasso",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00004571707",
+        "00220860301"
+      ],
+      "isnis": [
+        "0000000116841312"
+      ],
+      "life-span": {
+        "begin": "1935-04-06",
+        "end": "2019-11-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bongusto, Alfredo",
+          "name": "Alfredo Bongusto",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Buongusto, Alfredo Antonio Carlo",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alfredo Antonio Carlo Buongusto",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gred Bongusto",
+          "name": "Gred Bongusto",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f0c93766-cab0-4968-8052-78657273f72b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Ebb",
+      "sort-name": "Ebb, Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Manhattan",
+        "sort-name": "Manhattan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00008981270"
+      ],
+      "isnis": [
+        "000000011065775X"
+      ],
+      "life-span": {
+        "begin": "1928-04-08",
+        "end": "2004-09-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ebb",
+          "name": "Ebb",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kander & Ebb",
+          "name": "Kander & Ebb",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fred Ebb",
+          "name": "Fred Ebb",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "2a04a833-2376-474d-846e-142e49167786",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Eaglesmith",
+      "sort-name": "Eaglesmith, Fred",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bb73699b-c21d-4d65-afc1-c6f3f001e0c2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Caistor Centre",
+        "sort-name": "Caistor Centre",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00038293960"
+      ],
+      "isnis": [
+        "0000000045723449"
+      ],
+      "life-span": {
+        "begin": "1957-07-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Fred J. Eaglesmith",
+          "name": "Fred J. Eaglesmith",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "530e23a3-554d-41e6-9d64-9045ae5701e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Strittmatter",
+      "sort-name": "Strittmatter, Fred",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00029774745"
+      ],
+      "isnis": [
+        "000000005831795X"
+      ],
+      "life-span": {
+        "begin": "1923-07-10",
+        "end": "1985-09-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Strittmatter Fred",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Strittmatter Fred",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8d2651e1-f539-4492-957a-8b4dc4c5d9b9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mississippi Fred McDowell",
+      "sort-name": "McDowell, Mississippi Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "abd08ff4-68a1-43c0-84cd-3032e11d1d7d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rossville",
+        "sort-name": "Rossville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Memphis",
+        "sort-name": "Memphis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000120180019"
+      ],
+      "life-span": {
+        "begin": "1904-01-12",
+        "end": "1972-07-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mississipi Fred MC Dowell",
+          "name": "Mississipi Fred MC Dowell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mississippi Fred McDow",
+          "name": "Mississippi Fred McDow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mississippi Fred McDowall",
+          "name": "Mississippi Fred McDowall",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Missisippi Fred McDowell",
+          "name": "Missisippi Fred McDowell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fred Mac Dowell",
+          "name": "Fred Mac Dowell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fred McDowell",
+          "name": "Fred McDowell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "blues"
+        }
+      ]
+    },
+    {
+      "id": "05d33097-11cb-4388-a1c0-da97540ece4e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Penner",
+      "sort-name": "Penner, Fred",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "35307acf-aba0-4ca7-9df6-b9398d873a8f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Winnipeg",
+        "sort-name": "Winnipeg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00071990850"
+      ],
+      "isnis": [
+        "0000000073773013"
+      ],
+      "life-span": {
+        "begin": "1946-11-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Penner, Frederick",
+          "name": "Frederick Penner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Penner, Frederick Ralph Cornelius",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Frederick Ralph Cornelius Penner",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5f7342e9-e1b2-4a8b-a622-c973838789cf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Wesley",
+      "sort-name": "Wesley, Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dd15cf45-87f4-4891-b955-c26fe4fa3847",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Columbus",
+        "sort-name": "Columbus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00062466968",
+        "00062023618"
+      ],
+      "isnis": [
+        "0000000120207488"
+      ],
+      "life-span": {
+        "begin": "1943-07-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "F Wesley",
+          "name": "F Wesley",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fred Weasley",
+          "name": "Fred Weasley",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "F. Wesley",
+          "name": "F. Wesley",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fred Westy",
+          "name": "Fred Westy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fred Neslay",
+          "name": "Fred Neslay",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "funk"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "dcf54a6c-e09c-4980-be77-41401898fb7b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 87,
+      "name": "Right Said Fred",
+      "sort-name": "Right Said Fred",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "55f1122c-4074-4754-92dc-069a8cceec32",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "East Grinstead",
+        "sort-name": "East Grinstead",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English Pop band",
+      "isnis": [
+        "0000000104340414"
+      ],
+      "life-span": {
+        "begin": "1990",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "novelty"
+        },
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        }
+      ]
+    },
+    {
+      "id": "897ce0da-8e1f-42a4-ab82-b10b4cbee9f5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Buscaglione",
+      "sort-name": "Buscaglione, Fred",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8522a441-2c8b-46fd-8dd6-fd5bbecb38fa",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Torino",
+        "sort-name": "Torino",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian actor, singer, composer",
+      "isnis": [
+        "000000005959852X"
+      ],
+      "life-span": {
+        "begin": "1921-11-23",
+        "end": "1960-02-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Buscaglione, Fred e i suoi Asternovas",
+          "name": "Fred Buscaglione e i suoi Asternovas",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fred Buscaglione ed i suoi Asternovas",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fred Buscaglione ed i suoi Asternovas",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Buscaglione, Ferdinando",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ferdinando Buscaglione",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": -1,
+          "name": "death by automobile"
+        }
+      ]
+    },
+    {
+      "id": "7fec1c34-13e2-4cb5-ba15-3e478d716c6d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Hammond",
+      "sort-name": "Hammond, Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00129489831"
+      ],
+      "isnis": [
+        "0000000042686371"
+      ],
+      "life-span": {
+        "begin": "1960-12-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hammon, Fred",
+          "name": "Fred Hammon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "af02a22b-293c-4feb-83e5-bca6a9a0d0f3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Mollin",
+      "sort-name": "Mollin, Fred",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "96280e48-70ce-4d28-9a7b-798b9b68b9f8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amityville",
+        "sort-name": "Amityville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00058802465"
+      ],
+      "isnis": [
+        "0000000118859786"
+      ],
+      "life-span": {
+        "begin": "1953-02-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mollin, Frederic Ira",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Frederic Ira Mollin",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "_download"
+        },
+        {
+          "count": 1,
+          "name": "_edit"
+        }
+      ]
+    },
+    {
+      "id": "d7a837cb-390b-4efc-a2b5-70dee6123f53",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "name": "Fred de Fred",
+      "sort-name": "Fred, Fred de",
+      "disambiguation": "production music composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e27d48a1-ba25-45b3-a20e-e2377e5f638e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred",
+      "sort-name": "Fred",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French singer/songwriter FrÃ©dÃ©ric MÃ©tayer",
+      "life-span": {
+        "begin": "1973",
+        "ended": null
+      }
+    },
+    {
+      "id": "8b2b2db5-c546-4c88-ba49-0d5d0bf4e595",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Frohberg",
+      "sort-name": "Frohberg, Fred",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1c432aeb-3b75-4442-ad6b-deaf555ad07e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Halle (Saale)",
+        "sort-name": "Halle (Saale)",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "20619e36-fca8-4499-bcc8-be01a3ea3e41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leipzig",
+        "sort-name": "Leipzig",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00010937408"
+      ],
+      "isnis": [
+        "0000000055408442"
+      ],
+      "life-span": {
+        "begin": "1925-10-27",
+        "end": "2000-06-01",
+        "ended": true
+      }
+    },
+    {
+      "id": "98371d28-3e5d-4638-a2c1-468a5f3dc993",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Karlin",
+      "sort-name": "Karlin, Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f1724242-d9e8-40bd-a1d6-2add4b0c24ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Culver City",
+        "sort-name": "Culver City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081359322"
+      ],
+      "life-span": {
+        "begin": "1936-06-16",
+        "end": "2004-03-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Karlin, F.",
+          "name": "F. Karlin",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carlin",
+          "name": "Carlin",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "70f5ff67-59c0-4d04-984b-bf0e1e602ee1",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 85,
+      "name": "Fred",
+      "sort-name": "Fred",
+      "country": "IE",
+      "area": {
+        "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ireland",
+        "sort-name": "Ireland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Irish 5-piece alternative/indie-pop band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f51a55d0-5f9a-4df9-8a05-ab7bf56fa49d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Neil",
+      "sort-name": "Neil, Fred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b2ca1e7-e7f6-4155-881d-c660a45c11e8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cleveland",
+        "sort-name": "Cleveland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "09161499-453c-45b7-91b9-67fbae1d52cd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Summerland Key",
+        "sort-name": "Summerland Key",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00022161435"
+      ],
+      "isnis": [
+        "000000011745594X"
+      ],
+      "life-span": {
+        "begin": "1936-03-16",
+        "end": "2001-07-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Freddie Neil & Friend",
+          "name": "Freddie Neil & Friend",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neil, Frederick",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Frederick Neil",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "american"
+        }
+      ]
+    }
+  ]
+}
